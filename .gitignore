@@ -4,6 +4,7 @@
 .dart_tool/
 .packages
 build/
+flutter_exam_backend/
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
 

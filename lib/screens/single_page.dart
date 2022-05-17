@@ -30,7 +30,7 @@ Digital currencies like bitcoin, ether and even dogecoin have been on a tear thi
                       
 Asked at a press conference Thursday about the rising value of cryptocurrencies, Bailey said: “They have no intrinsic value. That doesn’t mean to say people don’t put value on them, because they can have extrinsic value. But they have no intrinsic value.”
                       
-“I’m going to say this very bluntly again,” he added. “Buy them only if you’re prepared to lose all your money.”
+“I’m going to say this very bluntly again,” he added. “Buy them only if you`re prepared to lose all your money.”
                       
 Bailey’s comments echoed a similar warning from the U.K.’s Financial Conduct Authority.
                       
